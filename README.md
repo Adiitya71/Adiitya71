@@ -1,4 +1,4 @@
-# hi, i'm aditya
+# hi, i'm Aditya
 
 ```
 CSE undergrad · Data Engineering · ML Platform · I build the data layer behind AI systems.
