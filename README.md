@@ -10,7 +10,9 @@ B.Tech Computer Science Engineering student at FCRIT (class of 2027), building d
 
 **stack**
 
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy,pytorch,sklearn,postgres,supabase,mongodb,mysql,firebase,ts,react,nextjs,nodejs,express,tailwind,kotlin,androidstudio,git" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,supabase,mongodb,mysql,firebase,ts,react,nextjs,nodejs,express,tailwind,kotlin,androidstudio,git" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
 ---
 
